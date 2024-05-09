@@ -2,6 +2,8 @@
 #### Video Demo:  https://youtu.be/gnBT4TnIPrY
 #### Description:
 This was for my final project in CS50’s Introduction to Programming with Python.
+
+
 This project is classic implementation of the Snake game build using the Pygame library in Python. The game features a snake controlled by the player, which moves around the screen, eating food to grow longer while avoiding collisions with itself and with boundaries of the screen area.
 <img src="docs/game_screen.png" alt="game screen" style="display:block; margin:auto; max-width:60%">
 
